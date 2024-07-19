@@ -3,7 +3,7 @@ import "../Css/Footer.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <p>Coffeee ShoPP!!</p>
+      <p>ECOMM SHOP!!</p>
     </div>
   );
 };
