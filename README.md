@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![image](https://github.com/user-attachments/assets/9a0d5396-1270-4904-a33a-c4b6c56f23ff)
+![image](https://github.com/user-attachments/assets/87c55ee4-d7c3-4ff7-ab0a-f044e7f30826)
+![image](https://github.com/user-attachments/assets/7565863b-e5ed-4752-86d8-7339a562f69e)
+![image](https://github.com/user-attachments/assets/7c15a21c-dca1-4066-b9d3-71fcd3f387ce)
+![image](https://github.com/user-attachments/assets/447e7241-5f85-46ca-bf5a-b866a5608796)
+![image](https://github.com/user-attachments/assets/1d114760-2398-4bc4-bd45-6ea66b8afad5)
+![image](https://github.com/user-attachments/assets/57a01992-0f80-44c8-b571-1537de22cfed)
+![image](https://github.com/user-attachments/assets/0322cdec-a4d6-44bb-b4a5-d798b2b43888)
+![image](https://github.com/user-attachments/assets/f9d33ec9-355c-4a8a-be3a-d019f3c51c40)
+![image](https://github.com/user-attachments/assets/c2f45467-a00b-4857-a760-c1c66dc4844d)
+![image](https://github.com/user-attachments/assets/c1988439-7da7-4391-9aa7-b19be27c6afa)
+
+
+
+
+
+
+
+
+
+
+
